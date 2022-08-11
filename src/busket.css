@@ -1,0 +1,18 @@
+#busket{
+    
+    border:solid;
+    border-color: rgb(11, 123, 193);
+    justify-content: center;
+    text-align: center;
+    width: 700px;
+    height: 1000px;
+   border-radius: 20%;
+   margin-left: 350px;
+   margin-top: 30px;
+}
+#addBut{
+    margin-right: 20px;
+}
+#amount{
+    margin-top: -20px;
+}
